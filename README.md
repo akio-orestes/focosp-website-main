@@ -1,7 +1,7 @@
 # focosp-website
 
-<h2> 🚀 Radial Cursos Website </h2>
-<p>FOCO Solution Provider's Website, 2022 </p>
+<h2> 🚀 Foco Solution Provider Website </h2>
+<p>FOCO Solution Provider's Website, Official and Renovated Website </p>
 
 <p>2022 •<em> HTML, CSS, SASS, JavaScript</em> • Under Development</p>
 
