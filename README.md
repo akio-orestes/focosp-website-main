@@ -13,7 +13,7 @@
  <li> Modern and Aesthetic Design;  </li>
  <li> Animated Inputs;  </li>
  <li> Smooth Transitions;  </li>
- <li> 100% Functional;   </li>
+ <li> 100% Responsive;   </li>
  <li> BackEnd Finished. 🌟 </li>
  <li> Soon! Links will be added to some of the buttons; Some pages will be added as well! </li>
  </ul>
